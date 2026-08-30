@@ -76,63 +76,7 @@ I enjoy turning ideas into functional digital products — from web applications
 
 ---
 
-## 🚀 Featured Projects
 
-### 🏏 Cricket Tournament Management System
-
-A dynamic cricket tournament platform featuring:
-
-* 📊 Points Table
-* 🏏 Live Scoreboard
-* 📅 Fixtures
-* 👥 Team & Player Management
-* ⚡ Real-time scoring
-* 📈 Match statistics
-
-**Tech:** PHP • MySQL • JavaScript • Bootstrap • AJAX
-
----
-
-### 🎓 Student Result Management System
-
-A web-based academic result management platform designed for schools.
-
-**Features:**
-
-* 🔎 Public result search
-* 📄 Digital marksheets
-* 👨‍🎓 Student management
-* 👨‍🏫 Teacher management
-* 📊 Subject-wise marks
-* 📥 Bulk CSV upload
-* 🏫 Class, section & group management
-
-**Tech:** PHP • MySQL • Bootstrap • JavaScript
-
----
-
-### 📰 Banglar Patrika
-
-A customized Bengali news publishing platform with a focus on performance, readability, and responsive design.
-
-**Tech:** WordPress • PHP • JavaScript • CSS
-
----
-
-### 🤖 AI & Machine Learning Projects
-
-Exploring practical applications of Artificial Intelligence and Machine Learning, including multimodal and intelligent systems.
-
-**Focus:** Python • Machine Learning • Computer Vision • AI
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayedsalman&show_icons=true&theme=transparent&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedsalman&layout=compact&theme=transparent&hide_border=true" height="180"/>
-</p>
 
 ---
 
@@ -144,11 +88,6 @@ Exploring practical applications of Artificial Intelligence and Machine Learning
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayedsalman&theme=github-compact&hide_border=true" />
-</p>
 
 ---
 
