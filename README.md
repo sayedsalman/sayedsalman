@@ -53,7 +53,7 @@ I enjoy turning ideas into functional digital products — from web applications
 ### ⚙️ Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,bootstrap,tailwind,react,vue" />
+  <img src="https://skillicons.dev/icons?i=laravel,bootstrap,tailwind" />
 </p>
 
 ### 🗄️ Database & Backend
