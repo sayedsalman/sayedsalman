@@ -57,15 +57,15 @@ fun_fact: I turn coffee into code ☕➡️💻
 
 **⚙️ Frameworks & Libraries**
 <br/>
-<img src="https://skillicons.dev/icons?i=laravel,bootstrap,tailwind,react&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=laravel,bootstrap,tailwind&theme=dark"/>
 
 **🗄️ Database & Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,nodejs&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite&theme=dark"/>
 
 **🌐 CMS & Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode,figma,postman,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode,linux&theme=dark"/>
 
 **🤖 AI / ML**
 <br/>
