@@ -1,8 +1,4 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Sayed%20Mahbub%20Salman&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20UI%20Designer%20•%20AI%20%26%20ML%20Explorer&descAlignY=58&descSize=18" width="100%"/>
-
-<br/>
 
 <a href="https://salman.rfnhsc.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+modern+web+applications+%F0%9F%9A%80;Designing+beautiful+user+interfaces+%F0%9F%8E%A8;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Turning+ideas+into+real+products+%E2%9C%A8" alt="Typing SVG"/>
